@@ -1,0 +1,32 @@
+# Archives and logs
+*.zip
+*.log
+*.tar
+*.tar.*
+*.gz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.lz
+*.lzma
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints and artifacts
+*.pth
+*.pt
+*.pth.tar
+qarad_json_ckpts/
+qarad_json_log/
+qarad_json_vis/
+qarad_vis/
+experiments/**/qarad_vis/**
+
+# Misc
+__pycache__/
