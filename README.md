@@ -92,13 +92,16 @@ If you find QARAD useful for your research, please cite:
 
 This project builds upon the open-source codebases of the following works. We are grateful to their authors and communities:
 
-* **RealNet** — code: [cnulab/RealNet](https://github.com/cnulab/RealNet) • authors: [contributors](https://github.com/cnulab/RealNet/graphs/contributors)
-* **Infinity** — code: [michaelfeil/infinity](https://github.com/michaelfeil/infinity) • author/maintainer: [Michael Feil](https://github.com/michaelfeil)
+* **RealNet** — code: [cnulab/RealNet](https://github.com/cnulab/RealNet) • paper: [arXiv:2403.05897](https://arxiv.org/abs/2403.05897). ([GitHub][1])
+* **Infinity** — code: [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) • project: [foundationvision.github.io/infinity.project](https://foundationvision.github.io/infinity.project) • paper: [arXiv:2412.04431](https://arxiv.org/abs/2412.04431). ([GitHub][2])
 
 We extended and adapted their implementations for our setting—many thanks to the original authors and the open-source community.
+
+[1]: https://github.com/cnulab/RealNet "GitHub - cnulab/RealNet: Offical implementation of \"RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection (CVPR 2024)\""
+[2]: https://github.com/FoundationVision/Infinity "GitHub - FoundationVision/Infinity: [CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis"
 
 ---
 
 ## 📬 Contact
 
-For questions or collaborations, please open an issue on the repository or contact the authors listed in the paper.
+For questions or collaborations, please open an issue on the repository or contact me: qianlong2024@ia.ac.cn.
