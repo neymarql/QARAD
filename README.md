@@ -21,9 +21,6 @@
 
 Together, these form **QARAD**, a synthesis‑plus‑training pipeline that delivers **controllable, realistic defects** and **robust, accurate detectors** across standard benchmarks.
 
-**Paper:** “*Quality‑Aware Language‑Conditioned Local Auto‑Regressive Anomaly Synthesis and Detection*”
-**arXiv:** [https://arxiv.org/abs/2508.03539](https://arxiv.org/abs/2508.03539)
-
 ---
 
 ## ✨ Key Contributions
@@ -88,6 +85,17 @@ If you find QARAD useful for your research, please cite:
       url={https://arxiv.org/abs/2508.03539}, 
 }
 ```
+
+---
+
+## 🙏 Acknowledgements
+
+This project builds upon the open-source codebases of the following works. We are grateful to their authors and communities:
+
+* **RealNet** — code: [cnulab/RealNet](https://github.com/cnulab/RealNet) • authors: [contributors](https://github.com/cnulab/RealNet/graphs/contributors)
+* **Infinity** — code: [michaelfeil/infinity](https://github.com/michaelfeil/infinity) • author/maintainer: [Michael Feil](https://github.com/michaelfeil)
+
+We extended and adapted their implementations for our setting—many thanks to the original authors and the open-source community.
 
 ---
 
