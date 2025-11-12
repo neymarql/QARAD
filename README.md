@@ -1,6 +1,6 @@
 # QARAD
 
-**Quality‑Aware Language‑Conditioned Local Auto‑Regressive Anomaly Synthesis and Detection**
+**[AAAI2026] Quality‑Aware Language‑Conditioned Local Auto‑Regressive Anomaly Synthesis and Detection**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.03539-b31b1b.svg)](https://arxiv.org/abs/2508.03539)
 ![AAAI](https://img.shields.io/badge/AAAI-2026%20Poster-blue)
